@@ -1,0 +1,89 @@
+.trans {
+    opacity: 0.5; 
+  }
+  h1 {
+    color: #f9a7cd;
+      margin: auto;
+    text-align: center;
+  }
+  html {
+    background-color: gray;
+  }
+  #description{
+    color: #f9a7cd;
+    margin: auto;
+    text-align: center;
+  }
+  #name-label {
+    text-align: center;
+  }
+  #name {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #email-label {
+    text-align: center;
+  }
+  #email {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #number-label {
+    text-align: center;
+  }
+  #number {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #option {
+    text-align: center;
+  }
+  #dropdown {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #recommend {
+    text-align: center;
+  }
+  #radio {
+    text-align: center;
+  }
+  #dropdown2 {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #covid {
+    text-align: center;
+  }
+  #improved {
+    
+  }
+  #trump-img {
+    position: absolute;
+    width: 20%;
+  }
+  .select {
+  }
+  #biden-img {
+    position: absolute;
+    margin-left: 995px;
+    width: 20%;
+  }
+  #comment {
+    text-align: center;
+  }
+  #suggestion {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+  #submit {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
